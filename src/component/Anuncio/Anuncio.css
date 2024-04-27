@@ -1,0 +1,43 @@
+.content-fluid{
+    width: 100%;
+}
+
+.card-anuncio{
+    padding: 0px 2.5rem;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.icon-anuncio{
+    font-size: 25rem;
+    color: #68748C;
+}
+.titulo-anuncio{
+    font-size: 7rem;
+    font-weight: 700;
+    color: #395273;
+    line-height: 7rem;
+}
+
+.mensaje-anuncio{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgba(0,0,0,0.7);
+    width: 50%;
+}
+.mensaje-anuncio p{
+    padding: 20px 0px;
+}
+.mensaje-anuncio div{
+    padding: 10px 0px;
+    font-size: 1rem;
+}
+.punto-anuncio{
+    background-color: #68748C;
+    color: #fff;
+    padding: 2px 10px;
+    border-radius: 50px;
+}
